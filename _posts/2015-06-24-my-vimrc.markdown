@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "my .vimrc"
+date:   2015-06-24 21:09:43
+---
+
+{% highlight vim %}
+set nocompatible              " be iMproved, required
+filetype off                  " required
+" set the runtime path to include Vundle and initialize
+{% endhighlight %}
+
