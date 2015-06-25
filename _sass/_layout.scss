@@ -104,6 +104,14 @@
   padding: $spacing-unit 0;
 }
 
+@media (max-width: $screen-sm) {
+  .site-footer {
+    > div {
+      border-top: 1px solid $grey-color-light;
+    }
+  }
+}
+
 @media (min-width: $screen-sm) {
   .site-footer {
     > div {
@@ -216,6 +224,7 @@
 }
 
 .post-title {
+  margin-top: $spacing-unit;
   font-size: 42px;
   letter-spacing: -1px;
   line-height: 1;
