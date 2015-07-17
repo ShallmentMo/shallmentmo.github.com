@@ -7,6 +7,8 @@ related to ruby or rails:
 
 *   [Vim Config for Rails Ninjas](http://mixandgo.com/blog/vim-config-for-rails-ninjas)  
 *   [awesome-ruby](http://awesome-ruby.com/)
+*   [the complete guide to rails caching](http://www.nateberkopec.com/2015/07/15/the-complete-guide-to-rails-caching.html)
+*   [Top 8 tools for Ruby on Rails code optimization and cleanup](https://www.infinum.co/the-capsized-eight/articles/top-8-tools-for-ruby-on-rails-code-optimization-and-cleanup)
 
 related to javascript or node:  
 
