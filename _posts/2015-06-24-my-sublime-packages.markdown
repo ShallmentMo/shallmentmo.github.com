@@ -16,11 +16,15 @@ Here are my using sublime packages:
 [Package Controll][Package Controll]
 
 [VintageEx][VintageEX]  
-Remember: VintageEx doesn't replace Vintage: To use vi key bindings, you need to enable the [Vintage](http://www.sublimetext.com/docs/2/vintage.html) package (shipped with Sublime Text and ignored by default).
+Remember: VintageEx doesn't replace Vintage: To use vi key bindings, you need to enable the [Vintage](http://www.sublimetext.com/docs/2/vintage.html) package (shipped with Sublime Text and ignored by default).Only support st2
+
+[Vintageous][Vintageous]
+vi/vim emulation for st3.Should enable Vintage
 
 [All AutoComplete]:  https://github.com/alienhard/SublimeAllAutocomplete 
 [Git]:  https://github.com/kemayo/sublime-text-git
 [GitGutter]:  http://www.jisaacks.com/gitgutter
 [Package Controll]: https://packagecontrol.io/ 
 [VintageEX]: https://github.com/SublimeText/VintageEx 
+[Vintageous]: https://github.com/guillermooo/Vintageous
 
