@@ -27,6 +27,7 @@ related to editor:
 
 * [Markdown 语法说明](http://www.appinn.com/markdown/)
 * [VimAwesome](http://vimawesome.com/)
+* [Setting up Sublime Text 3 for Rails Development](https://mattbrictson.com/sublime-text-3-recommendations)
 
 related to readings:
 
