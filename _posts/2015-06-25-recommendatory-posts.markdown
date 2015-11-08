@@ -7,6 +7,8 @@ related to ruby or rails:
 
 *   [Vim Config for Rails Ninjas](http://mixandgo.com/blog/vim-config-for-rails-ninjas)  
 *   [awesome-ruby](http://awesome-ruby.com/)
+*   [the complete guide to rails caching](http://www.nateberkopec.com/2015/07/15/the-complete-guide-to-rails-caching.html)
+*   [Top 8 tools for Ruby on Rails code optimization and cleanup](https://www.infinum.co/the-capsized-eight/articles/top-8-tools-for-ruby-on-rails-code-optimization-and-cleanup)
 
 related to javascript or node:  
 
@@ -25,6 +27,7 @@ related to editor:
 
 * [Markdown 语法说明](http://www.appinn.com/markdown/)
 * [VimAwesome](http://vimawesome.com/)
+* [Setting up Sublime Text 3 for Rails Development](https://mattbrictson.com/sublime-text-3-recommendations)
 
 related to readings:
 
