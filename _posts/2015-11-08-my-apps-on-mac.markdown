@@ -5,9 +5,9 @@ date:   2015-11-08 17:50:43
 categories: jekyll update
 ---
 Here are my using apps on mac:
+
 * brew
 * brew cask
-
 * Alfred 2
 * Android Studio
 * CheatSheet
