@@ -2,7 +2,7 @@
 layout: post
 title:  "Bitmaps of Randomness in Ruby"
 date:   2016-05-28 21:41:30 +0800
-categories: jekyll update
+categories: posts
 ---
 Today I heppend to find [random.org](https://www.random.org), so I got [Statistical Analysis](https://www.random.org/analysis/) and [Pseudo-Random vs. True Random](http://boallen.com/random-numbers.html). Then why not try it using Ruby? So I do the test, it seems that Ruby do just fine. Is there another way to test?
 

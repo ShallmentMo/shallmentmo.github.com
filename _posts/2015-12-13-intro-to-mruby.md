@@ -2,7 +2,7 @@
 layout: post
 title:  "Intro to mruby"
 date:   2015-12-13 00:22:30
-categories: jekyll update
+categories: posts
 ---
 I read a post [25,000+ Req/s for Rack JSON API with MRuby](http://lucaguidi.com/2015/12/09/25000-requests-per-second-for-rack-json-api-with-mruby.html). It's really shock me, so I did some research on [mruby](http://www.mruby.org).
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "my line dot background"
 date:   2015-11-29 15:51:30
-categories: jekyll update
+categories: posts
 ---
 Yesterday I build a page to use a canvas as background full of dots and lines. And the screenshot is something below:
 

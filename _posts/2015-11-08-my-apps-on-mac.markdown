@@ -2,7 +2,7 @@
 layout: post
 title:  "my apps on mac"
 date:   2015-11-08 17:50:43
-categories: jekyll update
+categories: posts
 ---
 Here are my using apps on mac:
 

@@ -2,6 +2,7 @@
 layout: post
 title:  "my .vimrc"
 date:   2015-06-24 21:09:43
+categories: posts
 ---
 This is my .vimrc. Just for record. It's not suggestion
 

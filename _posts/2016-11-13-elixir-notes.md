@@ -2,7 +2,7 @@
 layout: post
 title:  "elixir notes"
 date:   2016-11-13 01:05:30 +0800
-categories: jekyll update
+categories: posts
 ---
 
 此文为《Elixir 程序设计》的阅读笔记。(国庆是过了一下官网的 guide，完全不行，英语水平有待提高啊，只好买本书来看)

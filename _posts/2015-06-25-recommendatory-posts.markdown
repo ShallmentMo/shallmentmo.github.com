@@ -2,20 +2,21 @@
 layout: post
 title:  "recommedatory posts"
 date:   2015-06-25 21:21:43
+categories: posts
 ---
 related to ruby or rails:
 
-*   [Vim Config for Rails Ninjas](http://mixandgo.com/blog/vim-config-for-rails-ninjas)  
+*   [Vim Config for Rails Ninjas](http://mixandgo.com/blog/vim-config-for-rails-ninjas)
 *   [awesome-ruby](http://awesome-ruby.com/)
 *   [the complete guide to rails caching](http://www.nateberkopec.com/2015/07/15/the-complete-guide-to-rails-caching.html)
 *   [Top 8 tools for Ruby on Rails code optimization and cleanup](https://www.infinum.co/the-capsized-eight/articles/top-8-tools-for-ruby-on-rails-code-optimization-and-cleanup)
 
-related to javascript or node:  
+related to javascript or node:
 
-*  [Top 10 Mistakes Node.js Developers Make](https://www.airpair.com/node.js/posts/top-10-mistakes-node-developers-make)  
+*  [Top 10 Mistakes Node.js Developers Make](https://www.airpair.com/node.js/posts/top-10-mistakes-node-developers-make)
 *  [Automated e2e testing- WebDriverJS, Jasmine and Protractor](http://engineering.wingify.com/posts/e2e-testing-with-webdriverjs-jasmine/)
 
-related to mac:  
+related to mac:
 
 *  [Hacker's Guide to Setting up Your Mac](http://lapwinglabs.com/blog/hacker-guide-to-setting-up-your-mac)
 
