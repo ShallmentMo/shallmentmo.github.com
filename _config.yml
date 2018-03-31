@@ -11,3 +11,6 @@ gmail_username: ShallmentMo
 
 # Build settings
 markdown: kramdown
+
+plugins:
+  - jekyll-sitemap
